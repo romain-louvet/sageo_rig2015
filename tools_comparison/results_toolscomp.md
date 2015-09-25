@@ -33,7 +33,7 @@ A python script was used in order to count lines of code. Cf. https://github.com
 |              | Aggregate                                        |Random points                                             |Spatial join     
 |--------------|--------------------------------------------------|----------------------------------------------------------|-------------
 |ArcGIS 10.2.1 | arcpy.Dissolve_management()                      | arcpy.CreateRandomPoints_management()                    | arcpy.SpatialJoin_analysis() 
-|Qgis 2.8.1    | processing.runalg("dalogr:dissolvepolygons",...) | processing.runalg(''qgis:randompointsinlayerbounds'',...)| processing.runalg(''qgis:joinattributesbylocation'',...)[^3].
+|Qgis 2.8.1    | processing.runalg("dalogr:dissolvepolygons",...) | processing.runalg(''qgis:randompointsinlayerbounds'',...)| processing.runalg(''qgis:joinattributesbylocation'',...).
 |R 3.1.2       | aggregate()                                      | spsample()                                               | over()
 
 There is a bug with ''qgis:joinattributesbylocation''. This tool isn't working properly. cf. http://hub.qgis.org/issues/12922
