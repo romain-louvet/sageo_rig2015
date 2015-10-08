@@ -1,5 +1,3 @@
-The data used for these test can be downloaded here : https://www.dropbox.com/s/un3ryv5q1i2pog7/test_comparatif_outils.7z?dl=0
-
 **Computer used for the tests informations :** 8 go RAM, 32 bits, CPU i5, 3.40 GHZ
 
 **Tests parameters:**

@@ -1,7 +1,8 @@
 ---
 title: "README - sageo_rig2015"
 author: Romain Louvet
-date: "25 septembre, 2015"
+date: "8 october, 2015"
+contact: romain.louvet@alumni.univ-avignon.fr
 output: html_document
 ---
 
@@ -10,3 +11,16 @@ This repository contains scripts corresponding to methods and results described 
 **tools_comparison
 
 Three tools test results. Tested with R, ArcGIS and Qgis.
+
+The data used for these test can be downloaded here: https://www.dropbox.com/s/un3ryv5q1i2pog7/test_comparatif_outils.7z?dl=0
+
+**promethee
+
+This folder contains R scripts, plus one python scripts, used for data treatments and analysis of forest fires data from Prométhée database.
+
+The data used for these test can be downloaded here: https://www.dropbox.com/s/fk46711zjsdi9m1/promethee.7z?dl=0
+
+cf. http://www.sciencedirect.com/science/article/pii/S1878029615003308
+
+Information about handling shape files with R:
+https://www.nceas.ucsb.edu/scicomp/usecases/ReadWriteESRIShapeFiles
