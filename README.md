@@ -8,13 +8,13 @@ output: html_document
 
 This repository contains scripts corresponding to methods and results described in "Impact du changement d’échelle sur l’étude des causes des feux de forêts du sud-est de la France", paper submited to the SAGEO 2015 conference and accepted by the International Journal of Geomatics and Spatial Analysis (RIG) for publication.
 
-**tools_comparison
+###tools_comparison
 
 Three tools test results. Tested with R, ArcGIS and Qgis.
 
 The data used for these test can be downloaded here: https://www.dropbox.com/s/un3ryv5q1i2pog7/test_comparatif_outils.7z?dl=0
 
-**promethee
+###promethee
 
 This folder contains R scripts, plus one python scripts, used for data treatments and analysis of forest fires data from Prométhée database.
 
